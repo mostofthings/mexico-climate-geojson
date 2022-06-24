@@ -1,3 +1,3 @@
 # mexico-climate-geojson
 
-geojson format of the climate regions of Mexico 
+geojson format map layer of the climate regions of Mexico 
